@@ -15,8 +15,8 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./facebook.png"
-								alt="facebook"
+								src="./dropkickStudio.jpg"
+								alt="Dropkick"
 								className="work-image"
 							/>
 							<div className="work-title">DropKick studio Montréal - Canada</div>
