@@ -35,15 +35,61 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./twitter.png"
+								src="./Leoo-ADLP-partner.jpg"
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">Leoo - ADLP partner</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Senior Lead Webmaster
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2019 - 2021</div>
+                            <div className="work-main">
+                            • Production Oversight, Platform Administration and Monitoring
+                            • Website Development and Maintenance to ensure optimal performance and functionality.<br />
+                            • Usability Testing and Technical Testing for Tool Validation and Enhancement.<br />
+                            • Content Management: Efficiently curating and updating website content with new process.<br />
+                            • Web Analytics and Reporting: Utilizing advanced tools to monitor website traffic, analyze user interactions, and generate comprehensive reports for evaluating and enhancing website performance.<br />
+                            • Search Engine Optimization (SEO): Strategically implementing industry-leading techniques to enhance website visibility and bolster organic search rankings, driving increased online presence.<br />
+                            • User Experience (UX) and User Interface (UI) Design: Elevating user satisfaction by crafting user-centric interfaces, optimizing user flows, and refining navigation elements for a seamless digital journey.<br />
+                            </div>
+						</div>
+
+                        <div className="work">
+							<img
+								src="./freelance.jpg"
+								alt="freelance"
+								className="work-image"
+							/>
+							<div className="work-title">Freelance</div>
+							<div className="work-subtitle">Digital Solutions Consultant</div>
+							<div className="work-duration">2019 - 2021</div>
+                            <div className="work-main">
+                            • Domain and Hosting Management: Database Migration, DNS Redirection, Subdomains
+                            • Preventive / Predictive Maintenance
+                            • Security Audit and Vulnerability Strengthening: XSS, ClickJacking, MIME Fixes
+                            • Marketing and Communication Strategy Implementation
+                            • E-Commerce and Portfolio Website Design and Deployment
+                            • Brand Creation and Content Enhancement, Feature Development
+                            </div>
+						</div>
+                        <div className="work">
+							<img
+								src="./AirFrance.jpg"
+								alt="AirFrance"
+								className="work-image"
+							/>
+							<div className="work-title">Air France</div>
+							<div className="work-subtitle">Social Media Content Manager</div>
+							<div className="work-duration">2015 - 2018</div>
+                            <div className="work-main">
+                            • Innovation, POC Launches, and Scaling of New Concepts.
+                            • Devlopping new content strategies with Data Asset Management crowdsourcing initiatives.
+                            • Marketing and Communication Strategy Implementation
+                            • Ensuring Content Consistency with Platform and Communication Objectives
+                            • Development of Communication Plans and Content Strategies.
+                            • E-Commerce and Website Design and Deployment
+                            </div>
 						</div>
 					</div>
 				}
