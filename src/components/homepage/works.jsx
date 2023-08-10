@@ -23,8 +23,9 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Engineer
 							</div>
-                            <div className="work-main">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                </div>
+                            <div className="work-main">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            </div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
 
