@@ -25,7 +25,7 @@ const Works = () => {
 							</div>
 							<div className="work-duration">2019 - Present</div>
                             <div className="work-main">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit.
                             </div>
 						</div>
 
