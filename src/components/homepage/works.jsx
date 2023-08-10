@@ -25,11 +25,11 @@ const Works = () => {
 							</div>
 							<div className="work-duration">2022 - 2023</div>
                             <div className="work-main">
-                            • Developing and implementing mobile applications using React Native framework.
-                            • Collaborating with cross-functional teams (designers, backend developers, QA) to deliver high-quality solutions
-                            • Integrating APIs and third-party services into the mobile application.
-                            • Conducting code reviews and providing constructive feedback to team members.
-                            • Optimizing performance and improving user experience through code optimizations and UI enhancements.
+                            • Developing and implementing mobile applications using React Native framework.<br />
+                            • Collaborating with cross-functional teams (designers, backend developers, QA) to deliver high-quality solutions<br />
+                            • Integrating APIs and third-party services into the mobile application.<br />
+                            • Conducting code reviews and providing constructive feedback to team members.<br />
+                            • Optimizing performance and improving user experience through code optimizations and UI enhancements.<br />
                             </div>
 						</div>
 
