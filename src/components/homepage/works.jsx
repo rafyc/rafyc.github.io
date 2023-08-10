@@ -23,6 +23,8 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Engineer
 							</div>
+                            <div><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam fugiat ducimus, inventore sequi facilis porro repellat sed vero aliquid. Animi iste porro labore repellendus modi, dicta neque cum laudantium fugiat eius accusantium ut obcaecati eligendi corrupti laborum saepe voluptatem.</p>
+                                </div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
 
