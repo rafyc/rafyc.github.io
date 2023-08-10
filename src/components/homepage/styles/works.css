@@ -19,9 +19,10 @@
 }
 
 .work-title {
+    position: absolute;
 	font-size: 15px;
 	font-weight: 700;
-	padding-left: 20px;
+	padding-left: 50px;
 	margin-top: -3px;
 	color: var(--secondary-color);
 }
@@ -44,9 +45,8 @@
 }
 
 .work-main {
-    position: absolute;
 	font-size: 10px;
 	color: var(--secondary-color);
 	padding-top: 22px;
-	padding-left: 50px;
+	padding-left: 20px;
 }
