@@ -19,13 +19,17 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">DropKick studio Montréal - Canada</div>
 							<div className="work-subtitle">
-								Software Engineer
+								React Native Mobile developer
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2022 - 2023</div>
                             <div className="work-main">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit.
+                            • Developing and implementing mobile applications using React Native framework.
+                            • Collaborating with cross-functional teams (designers, backend developers, QA) to deliver high-quality solutions
+                            • Integrating APIs and third-party services into the mobile application.
+                            • Conducting code reviews and providing constructive feedback to team members.
+                            • Optimizing performance and improving user experience through code optimizations and UI enhancements.
                             </div>
 						</div>
 
