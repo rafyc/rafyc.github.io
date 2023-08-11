@@ -12,6 +12,7 @@ const Works = () => {
 				icon={faBriefcase}
 				title="EXPERIENCE"
 				body={
+                    <>
 					<div className="works-body">
 						<div className="work">
 							<img
@@ -92,6 +93,7 @@ const Works = () => {
                             </div>
 						</div>
 					</div>
+                    </>
 				}
 			/>
 		</div>
