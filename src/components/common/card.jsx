@@ -16,7 +16,7 @@ const Card = (props) => {
 					    </div>
 					    <div className="card-title">{title}</div>
                     </div>
-                    <a href="../../../../public/Raphaël-Chemouni-Full-Stack-2023.pdf" target="_blank" download>
+                    <a href="./../../../public/files/Raphaël-Chemouni-Full-Stack-2023.pdf" target="_blank" download>
                     <button type="button" className="download_button btn-98">Download resume</button>
                     </a>
 				</div>

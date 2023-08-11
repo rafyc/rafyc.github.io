@@ -41,6 +41,7 @@ a {
   display: none;
 }
 .btn-98 {
+  cursor:pointer;
   --thickness: 1px;
   background: none;
   box-sizing: border-box;
