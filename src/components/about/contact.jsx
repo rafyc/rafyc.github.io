@@ -30,7 +30,9 @@ function ContactForm(){
              <Box component="form" onSubmit={handleSubmit} sx={{ mt: 2, display: 'flex',
             flexDirection: 'column', alignItems: 'flex-start',}}>
                 <Grid xs={12} sm={3}>
+
         <TextField fullWidth id="email"
+
         type="email"
         name="email" label="Your email" variant="standard" sx={{marginTop: 2, width: 300}}/>
       <ValidationError
