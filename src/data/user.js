@@ -1,6 +1,6 @@
 const INFO = {
   main: {
-    title: "Reactfolio by Raphaël C",
+    title: "Raphaël C dev",
     name: "Raphaël Chemouni",
     email: "rapha.chemouni@gmail.com",
     logo: "../logo.png",
