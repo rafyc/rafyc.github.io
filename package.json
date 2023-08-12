@@ -4,9 +4,8 @@
 	"homepage": "https://rafyc.github.io",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Raphaël Chemouni",
+		"email": "rapha.chemouni@gmail.com",
 	},
 	"license": "MIT",
 	"private": true,
