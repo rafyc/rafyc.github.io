@@ -4,9 +4,7 @@ import { Helmet } from "react-helmet";
 import { faMailBulk } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-	faTwitter,
 	faGithub,
-	faStackOverflow,
 	faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -152,7 +150,7 @@ const Homepage = () => {
 
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
-								{myArticles.map((article, index) => (
+								{myArticles.toReversed().map((article, index) => (
 									<div
 										className="homepage-article"
 										key={(index + 1).toString()}

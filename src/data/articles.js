@@ -173,7 +173,29 @@ function article_7() {
   };
 }
 
+function article_8() {
+  return {
+    date: "Oct 31, 2022",
+    title: "Portfolio Project : MERN Social media",
+    link: "https://medium.com/@4318_26766/portfolio-project-mern-social-media-f9a764f67a48",
+    description:
+      "We wanted to have the best chances of success to find an internship as a full stack developer. As we’ve seen a lot of job advertisements requiring JS and React language, we’ve decided to build our portfolio on a popular stack called MERN for MongoDb, Express, React and Node.",
+    style: ``,
+    keywords: [
+      "Portfolio Project : MERN Social media",
+      "MERN stack",
+      "Raphaël C",
+      "Raphaël Chemouni",
+    ],
+    body: (
+      <React.Fragment>
+        <h1>Content of article 2</h1>
+      </React.Fragment>
+    ),
+  };
+}
 
-const myArticles = [article_1, article_2, article_3, article_4, article_5, article_6, article_7];
+
+const myArticles = [article_1, article_2, article_3, article_4, article_5, article_6, article_7, article_8];
 
 export default myArticles;

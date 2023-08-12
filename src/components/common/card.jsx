@@ -16,7 +16,7 @@ const Card = (props) => {
 					    </div>
 					    <div className="card-title">{title}</div>
                     </div>
-                    <a href={process.env.PUBLIC_URL + "cv.pdf"} target="_blank" download>
+                    <a href={process.env.PUBLIC_URL + "cv.pdf"} target="_blank" rel="noreferrer" download>
                     <button type="button" className="download_button btn-98">Download resume</button>
                     </a>
 				</div>
