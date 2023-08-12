@@ -5,7 +5,7 @@
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Raphaël Chemouni",
-		"email": "rapha.chemouni@gmail.com",
+		"email": "rapha.chemouni@gmail.com"
 	},
 	"license": "MIT",
 	"private": true,
